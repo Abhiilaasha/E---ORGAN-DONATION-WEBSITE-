@@ -10,11 +10,18 @@
 <a href="https://imgur.com/Kswg6mi"><img src="https://i.imgur.com/Kswg6mi.png" title="source: imgur.com" /></a>
   
 <li> Login/Sign Up: Secure authentication system for users to access personalized features</li><br>
+<a href="https://imgur.com/JuoStBw"><img src="https://i.imgur.com/JuoStBw.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/gZXLuTO"><img src="https://i.imgur.com/gZXLuTO.png" title="source: imgur.com" /></a>
 <li> Request for Organ: Allows users to request an organ donation, linking them directly to the login page for further actions.</li> <br>
+<a href="https://imgur.com/OkfR3oB"><img src="https://i.imgur.com/OkfR3oB.png" title="source: imgur.com" /></a>
 <li> Donate Organ: Users can volunteer to donate organs through a simple registration process after logging in.</li>
+<a href="https://imgur.com/uz4eYTZ"><img src="https://i.imgur.com/uz4eYTZ.png" title="source: imgur.com" /></a>
 <li> Donation Record: Users can view their donation history and status of current donations.</li><br>
+<a href="https://imgur.com/1qrFcFK"><img src="https://i.imgur.com/1qrFcFK.png" title="source: imgur.com" /></a>
 <li> Responsive Design: Fully responsive web design that works on mobiles, tablets, and desktops.</li><br>
 <li> Social Media Integration: Links to social media pages for enhanced community interaction and support.</li>
+<li> The AI Chat Bot (Elena) </li>
+<a href="https://imgur.com/kOJvSOO"><img src="https://i.imgur.com/kOJvSOO.png" title="source: imgur.com" /></a>
 </ul>
 
 <h2> Technologies Used </h2>
