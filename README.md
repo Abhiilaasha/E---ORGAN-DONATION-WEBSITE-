@@ -7,7 +7,7 @@
 <h2> Features </h2>
 <ul> 
 <li> Home Page: Includes motivational content and direct access to major functionalities like organ donation and requests.</li> <br>
-https://imgur.com/Kswg6mi
+<a href="https://imgur.com/Kswg6mi"><img src="https://i.imgur.com/Kswg6mi.png" title="source: imgur.com" /></a>
   
 <li> Login/Sign Up: Secure authentication system for users to access personalized features</li><br>
 <li> Request for Organ: Allows users to request an organ donation, linking them directly to the login page for further actions.</li> <br>
